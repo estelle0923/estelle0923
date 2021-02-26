@@ -2,7 +2,7 @@
 
 -about me 😀
 
-🧡 I'm 13-year-old and I am attending [Daegu Wolseo Elementary School] (http://www.dgwolseo.es.kr/)
+🧡 I'm 13-year-old and I am attending [Daegu Wolseo Elementary School](http://www.dgwolseo.es.kr/)
 
 💛 My family members are dad, mom, and an older brother.
 
