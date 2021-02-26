@@ -1,15 +1,13 @@
-### Hi~ This is my(YeongChae's) github space!👋
+### Hi~ This is Yeongchae Noh github space!👋
 
 -about me 😀
 
-🧡 I'm 13 years old and I am attending Daegu Wolseo Elementary School.
+🧡 I'm 13-year-old and I am attending Daegu Wolseo Elementary School.
 
-💛 My family members are dad, mom, and older brother.
+💛 My family members are dad, mom, and an older brother.
 
-💚 I am learning Python from my teacher(Tae-kyung Kim) with my friends.
+💚 I am learning Python from my teacher, Taekyung Kim, with my friends.
 
-💙 I like math and science and became interested in coding as I learned Python.
+💙 I like Math and Science and become interested in coding as I learned Python.
 
-💜 I am currently learning functions.
-
-Python is still a bit difficult, but I'll do my best!! 😁
+Python is still a bit difficult, but I will do my best!! 😁
