@@ -11,5 +11,3 @@
 💙 I like Math and Science and become interested in coding as I learned Python.
 
 Python is still a ~bit~ difficult, but I will do my best!! 😁
-
-----
