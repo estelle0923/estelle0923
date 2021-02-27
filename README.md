@@ -6,8 +6,10 @@
 
 💛 My family members are dad, mom, and an older brother.
 
-💚 I am learning Python from my teacher, [Taekyung Kim](http://github.com/ktk1501), with my friends.
+💚 I am learning _Python_ from my teacher, [Taekyung Kim](http://github.com/ktk1501), with my friends.
 
 💙 I like Math and Science and become interested in coding as I learned Python.
+
+💜 I started Python class in July 2020.
 
 __Python__ is still ~a bit~ difficult, but I will do my best! 😁
