@@ -10,4 +10,4 @@
 
 💙 I like Math and Science and become interested in coding as I learned Python.
 
-__Python__ is still ~a bit~ difficult, but I will do my best!! 😁
+__Python__ is still ~a bit~ difficult, but I will do my best! 😁
