@@ -12,4 +12,4 @@
 
 💜 I started _Python_ class in July 2020.
 
-__Python__ is still ~a bit~ difficult, but I will do my best! 😁
+___Python___ is still ~a bit~ difficult, but I will do my best! 😁
