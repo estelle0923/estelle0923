@@ -1,6 +1,6 @@
 ### Hi~ This is Yeongchae Noh github space!👋
 
--#### about me 😀
+#### - about me 😀
 
 🧡 I'm 13-year-old and I am attending [Daegu Wolseo Elementary School](http://www.dgwolseo.es.kr/)
 
