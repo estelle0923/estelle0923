@@ -11,5 +11,3 @@
 💙 I like Math and Science and become interested in coding as I learned _Python_.
 
 💜 I started _Python_ class in July 2020.
-
-___Python___ is still ~a bit~ difficult, but I will do my best! 😁
